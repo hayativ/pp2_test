@@ -85,5 +85,5 @@ movies = [
 "category": "Romance"
 }
 ]
-list = ["we Two", "Exam"]
+list = input().split(', ')
 my_function_4(movies, list)
